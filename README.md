@@ -155,7 +155,7 @@ Sistema web de inventario y gestión del ciclo de vida de activos tecnológicos.
 ¿Tienes un proyecto o posición que podría encajar? ¡Hablemos!
 
 - 📧 **Email:** lgaete.jara@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/TioCaano](www.linkedin.com/in/luisgaetejara)
+- 💼 **LinkedIn:** [www.linkedin.com/in/luisgaetejara](www.linkedin.com/in/luisgaetejara)
 - 📱 **WhatsApp/Tel:** +56 9 3076 8254
 
 ---
